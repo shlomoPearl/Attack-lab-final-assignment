@@ -6,9 +6,7 @@ The stolen information is stored in informaton.txt
 magicDate.apk is the real app.
 
 *use instruction:*
-```
-apktool d <name_of_apk_file>
-```
+```apktool d <name_of_apk_file>```
 now you can edit your app using smali.
 '''
 apktool b <name_of_app_dir>
